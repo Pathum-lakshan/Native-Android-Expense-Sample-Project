@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="expenses">Expenses</string>
+    <string name="save">SAVE</string>
+    <string name="expense_types">EXPENSE TYPES</string>
+</resources>
